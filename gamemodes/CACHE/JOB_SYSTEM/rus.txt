@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(15) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(256) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(257) : îøèáêà 025: çàãîëîâîê ôóíêöèè îòëè÷àåòñÿ îò ïðîòîòèïà
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(257) -- (258) : îøèáêà 021: èäåíòèôèêàòîð "storevehicle" óæå îáúÿâëåí
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(257) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Administrator\Downloads\.GM v.1.0.9\gamemodes\CACHE\JOB\JOB_TRUCKER.pwn(257) -- (287) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:6.

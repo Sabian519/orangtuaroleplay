@@ -1,0 +1,372 @@
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/yield.inc(52) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "@yH_OnScriptInit@000" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(348) : îøèáêà 021: èäåíòèôèêàòîð "@yH_OnScriptInit@000" óæå îáúÿâëåí
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(572) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(572) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(572) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(572) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(582) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(582) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(606) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(606) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(624) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(624) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\YSI_Data\y_foreach/iterators.inc(648) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\progress2.inc(435) : îøèáêà 021: èäåíòèôèêàòîð "@yH_OnScriptInit@000" óæå îáúÿâëåí
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\progress2.inc(437) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "@yH_OnScriptInit@000" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\progress2.inc(439) : îøèáêà 021: èäåíòèôèêàòîð "@yH_OnPlayerDisconnect@000" óæå îáúÿâëåí
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\progress2.inc(441) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "@yH_OnPlayerDisconnect@000" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(1416) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(1923) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(2162) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(2168) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(2481) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\3DTryg.inc(2489) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1768) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1798) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1806) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1819) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1926) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1955) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1983) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1996) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1996) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(1996) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2005) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2018) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2018) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2018) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2027) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2036) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2046) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2055) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2066) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2075) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2087) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2099) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2111) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2117) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2117) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2138) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2144) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2158) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2173) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2185) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2209) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2218) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2228) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2240) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2250) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2255) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2264) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2278) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2306) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2330) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2342) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2350) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2359) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2366) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2375) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2382) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2391) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2398) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2404) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2410) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2416) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2422) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2428) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2434) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2440) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2452) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2468) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2480) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2498) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2585) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2589) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2595) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2595) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2595) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2643) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2648) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2673) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2673) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "health" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2688) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2706) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2722) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2738) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2738) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2738) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2760) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2764) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2764) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2782) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2782) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2782) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2802) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2821) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2821) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2823) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2898) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2898) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2910) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2910) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2922) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2959) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "fHealth" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(2959) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "fDamage" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3076) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3101) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3196) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3249) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3267) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3311) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3383) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3408) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3412) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3412) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\EVF2.inc(3453) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\geoiplite.inc(218) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\Administrator\Downloads\.GM LRP v1.0.12\pawno\include\geoiplite.inc(249) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DINI.pwn(24) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DINI.pwn(48) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\GARAGE.pwn(112) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\GARAGE.pwn(176) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(97) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(116) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(166) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(185) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(315) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(315) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "health" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(321) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(456) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(542) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(559) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "rand" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(687) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(687) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(730) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(730) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(774) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(774) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(817) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(817) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(861) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(978) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1027) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1057) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1057) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1098) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1346) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1431) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1861) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_VEHICLE.pwn(1912) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(14) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(36) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(55) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(57) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(62) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(89) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(108) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TRUNK.pwn(110) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\REPORT.pwn(138) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\ASK.pwn(118) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TOYS.pwn(140) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TOYS.pwn(207) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\SERVER.pwn(69) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "strings" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(18) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(20) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(25) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(67) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(123) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(125) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(143) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(705) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(712) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(719) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(726) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(733) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\MYOV.pwn(740) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(68) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(75) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(86) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(94) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(164) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(164) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DOOR.pwn(480) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\FAMILY.pwn(100) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\FAMILY.pwn(100) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\FAMILY.pwn(253) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\FAMILY.pwn(305) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\FAMILY.pwn(657) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\HOUSE.pwn(521) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\HOUSE.pwn(750) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\BISNIS.pwn(419) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\BISNIS.pwn(550) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\BISNIS.pwn(822) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\GAS_STATION.pwn(75) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\GAS_STATION.pwn(164) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(128) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(204) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(324) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(379) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(718) : îøèáêà 021: èäåíòèôèêàòîð "@yH_OnDialogResponse@000" óæå îáúÿâëåí
+CACHE\DEALERSHIP.pwn(728) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(736) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(744) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(752) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(760) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(768) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(776) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(784) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(792) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(800) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(817) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(825) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(833) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(841) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(849) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(857) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(865) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(873) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(881) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(889) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(897) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(905) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(913) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(921) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(929) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(937) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(945) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(953) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(961) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(969) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(986) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(994) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1002) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1010) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1018) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1026) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1034) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1042) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1050) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1058) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1066) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1074) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1082) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1099) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1107) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1115) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1123) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1131) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1139) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1147) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1155) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1163) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1171) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1179) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1187) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1195) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1203) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1211) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1219) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1227) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1235) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1243) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1251) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1259) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1267) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1284) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1292) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1300) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1308) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1316) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1324) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1332) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1340) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1348) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1384) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1384) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1453) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1460) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1483) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1489) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1539) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1539) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DEALERSHIP.pwn(1662) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\DEALERSHIP.pwn(1664) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\DEALERSHIP.pwn(1666) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\DEALERSHIP.pwn(1670) : îøèáêà 054: íåñîîòâåòñòâóþùàÿ çàêðûâàþùàÿ ñêîáêà ("}")
+CACHE\DEALERSHIP.pwn(1672) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\RENTAL.pwn(35) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(159) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(217) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(261) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(303) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(402) : îøèáêà 021: èäåíòèôèêàòîð "@yH_OnDialogResponse@000" óæå îáúÿâëåí
+CACHE\RENTAL.pwn(412) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(420) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(428) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(436) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(444) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(452) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(469) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(477) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(485) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(493) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(501) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(509) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(517) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(525) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(533) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "tstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(569) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(569) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(618) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(618) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(642) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color1" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(642) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "color2" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\RENTAL.pwn(756) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\RENTAL.pwn(758) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\RENTAL.pwn(760) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\RENTAL.pwn(764) : îøèáêà 054: íåñîîòâåòñòâóþùàÿ çàêðûâàþùàÿ ñêîáêà ("}")
+CACHE\RENTAL.pwn(766) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\WORKSHOP.pwn(57) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\WORKSHOP.pwn(238) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\WORKSHOP.pwn(421) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_FARM.pwn(59) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_FARM.pwn(250) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\PRIVATE_FARM.pwn(440) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DYNAMIC_LOCKER.pwn(108) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\DYNAMIC_LOCKER.pwn(195) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(679) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(866) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1336) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1563) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "mstr" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1587) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1596) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1604) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1612) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1620) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1628) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1637) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1648) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1656) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1679) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1715) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(1725) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(2245) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\NATIVE.pwn(2270) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "vehicleid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+CACHE\TASK.pwn(2) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(4) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(6) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(8) : îøèáêà 021: èäåíòèôèêàòîð "SendClientMessageEx" óæå îáúÿâëåí
+CACHE\TASK.pwn(11) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(16) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(18) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(20) : îøèáêà 021: èäåíòèôèêàòîð "SendClientMessageEx" óæå îáúÿâëåí
+CACHE\TASK.pwn(23) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(28) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+CACHE\TASK.pwn(30) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
